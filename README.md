@@ -1,5 +1,6 @@
 <h1 align="center"># 💫 About Me:</h1>
 <h1 align="center"># 💫 Hi iam JAGADISH KANDHA</h1>
+<img align="right" alt="coding" width="400" src="https://github.com/kandha03/kandha03/blob/main/WhatsApp%20Image%202023-08-07%20at%2011.23.27%20AM.jpeg">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/JAGADISH KANDHA B) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jagadish-kandha-b-6501a5258) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Jagadish kandha bala) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jagadish123) 
